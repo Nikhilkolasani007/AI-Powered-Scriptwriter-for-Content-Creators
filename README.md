@@ -20,8 +20,9 @@ This project was developed by **Nikhil Kolasani** during **Hackathon at BITS Pil
 - **Secure Authentication** – Login and registration system for personalized access.
 
 ## 📸 Screenshots
-![Alt text](https://github.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/blob/544bc7f69dae35e48caaaa736d614a9ab1264c5c/screen%20shots%20for%20bits/1.png"img1")
 
+
+![image](https://github.com/user-attachments/assets/f67e62b2-e7a2-4c47-a665-e455c82295a9)
 
 
 
