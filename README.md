@@ -21,7 +21,7 @@ This project was developed by **Nikhil Kolasani** during **Hackathon at BITS Pil
 
 ## 📸 Screenshots
 
-screen shots for bits/1.png
+[screen shots for bits/1.png](https://raw.githubusercontent.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/refs/heads/main/screen%20shots%20for%20bits/1.png)
 
 
 
