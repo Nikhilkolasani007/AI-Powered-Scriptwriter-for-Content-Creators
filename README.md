@@ -20,7 +20,7 @@ This project was developed by **Nikhil Kolasani** during **Hackathon at BITS Pil
 - **Secure Authentication** – Login and registration system for personalized access.
 
 ## 📸 Screenshots
-
+If the Screen Shots are Not Visible You can go the Folder "Screen short for Bits" 
 [screen shots for bits/1.png](https://raw.githubusercontent.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/refs/heads/main/screen%20shots%20for%20bits/1.png)
 
 
