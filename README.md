@@ -21,8 +21,7 @@ This project was developed by **Nikhil Kolasani** during **Hackathon at BITS Pil
 
 ## 📸 Screenshots
 
-
-![image](https://github.com/user-attachments/assets/f67e62b2-e7a2-4c47-a665-e455c82295a9)
+screen shots for bits/1.png
 
 
 
