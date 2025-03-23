@@ -21,7 +21,7 @@ This project was developed by **Nikhil Kolasani** during **Hackathon at BITS Pil
 
 ## 📸 Screenshots
 
-![image alt](https://github.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/blob/d460a89ace2ff4e87848eb48a123224923426822/screen%20shots%20for%20bits/1.png)
+![image alt](https://github.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/blob/main/screen%20shots%20for%20bits/1.png?raw=true)
 
 
 ## 🛠️ Installation
