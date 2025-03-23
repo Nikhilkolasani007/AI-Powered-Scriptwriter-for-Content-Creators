@@ -19,6 +19,14 @@ This project was developed by **Nikhil Kolasani** during **Hackathon at BITS Pil
 ## Screenshots
 ![1](https://github.com/user-attachments/assets/713242ea-21e4-4e41-b078-547fb678f430)
 
+![2](https://github.com/user-attachments/assets/015564d3-cec4-4ba9-80d0-eaf6c6d54fdc)
+
+![3](https://github.com/user-attachments/assets/92783371-4644-4525-ab90-868984daa0f1)
+
+![4](https://github.com/user-attachments/assets/3758d312-0076-47b0-bb1a-8e7d38bcf923)
+
+![5](https://github.com/user-attachments/assets/d56837e9-d067-487f-9d72-8df134a8d6c3)
+
 
 ## 🛠️ Installation
 
