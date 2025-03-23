@@ -46,6 +46,7 @@ Ensure you have **Python** installed, then run:
 ```bash
 pip install -r requirements.txt
 ```
+https://github.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/blob/3e58ec49160481150fdbc7a1d6b0cb24723302c8/screen%20shots%20for%20bits/5.png
 
 ### 3️⃣ Run the Application
 ```bash
