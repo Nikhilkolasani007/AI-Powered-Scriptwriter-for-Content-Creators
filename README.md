@@ -19,18 +19,6 @@ This project was developed by **Nikhil Kolasani** during **Hackathon at BITS Pil
 - **Copy Functionality** – Easily copy generated scripts with one click.
 - **Secure Authentication** – Login and registration system for personalized access.
 
-## 📸 Screenshots
-##If the Screen Shots are Not Visible You can go the Folder "Screen short for Bits" 
-
-
-https://github.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/blob/a386d30cc1b5f013dff9722d00b35507fb1f28b1/screen%20shots%20for%20bits/2.png
-
-https://github.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/blob/3e58ec49160481150fdbc7a1d6b0cb24723302c8/screen%20shots%20for%20bits/3.png
-
-https://github.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/blob/3e58ec49160481150fdbc7a1d6b0cb24723302c8/screen%20shots%20for%20bits/4.png
-
-https://github.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/blob/3e58ec49160481150fdbc7a1d6b0cb24723302c8/screen%20shots%20for%20bits/5.png
-
 ## 🛠️ Installation
 
 Follow these steps to set up the project locally:
@@ -40,13 +28,13 @@ Follow these steps to set up the project locally:
 git clone https://github.com/yourusername/ai-script-generator.git
 cd ai-script-generator
 ```
-
+###Screen Shots
 ### 2️⃣ Install Dependencies
 Ensure you have **Python** installed, then run:
 ```bash
 pip install -r requirements.txt
 ```
-[screen shots for bits/1.png](https://raw.githubusercontent.com/Nikhilkolasani007/AI-Powered-Scriptwriter-for-Content-Creators/refs/heads/main/screen%20shots%20for%20bits/1.png)
+
 ### 3️⃣ Run the Application
 ```bash
 python app.py
